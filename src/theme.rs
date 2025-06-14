@@ -1,4 +1,3 @@
-
 use ratatui::style::{Color, Modifier, Style};
 
 pub fn highlight_style() -> Style {
