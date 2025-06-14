@@ -1,0 +1,18 @@
+[package]
+name = "omnifuzz"
+version = "0.1.0"
+edition = "2024"
+description = "A search that can look into everything"
+license = "MIT"
+
+[[bin]]
+name = "omnifuzz"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version ="4.5.40", features = ["derive"] }
+crossterm = "0.29.0"
+fuzzy-matcher = "0.3.7"
+opener = "0.8.2"
+ratatui = "0.29.0"
+walkdir = "2.5.0"
