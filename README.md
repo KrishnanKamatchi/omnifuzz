@@ -29,3 +29,7 @@
 git clone https://github.com/yourname/omnifuzz.git
 cd omnifuzz
 cargo install --path .
+```
+
+### Preview
+![image](https://github.com/user-attachments/assets/d3893420-663a-42bd-997d-1dcf4234a018)
