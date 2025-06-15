@@ -31,5 +31,8 @@ cd omnifuzz
 cargo install --path .
 ```
 
-### Preview
+### 🖵 Preview
 ![image](https://github.com/user-attachments/assets/d3893420-663a-42bd-997d-1dcf4234a018)
+
+### 😊 Need Your Feedback!
+Im on a journey to learn CLI app development, and your feedback is crucial! Please share any thoughts on improving this project.
